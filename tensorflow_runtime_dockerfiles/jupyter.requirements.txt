@@ -1,3 +1,4 @@
 jupyter
 matplotlib
 jupyter_http_over_ws
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
