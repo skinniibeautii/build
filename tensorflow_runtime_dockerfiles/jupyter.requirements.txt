@@ -1,3 +1,4 @@
 jupyter
 matplotlib
 jupyter_http_over_ws
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
